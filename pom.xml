@@ -1,0 +1,17 @@
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <groupId>asgiref</groupId>
+    <artifactId>asgiref</artifactId>
+    <version>3.8.1</version>
+
+    <groupId>Django</groupId>
+    <artifactId>Django</artifactId>
+    <version>4.2.11</version>
+
+    <groupId>sqlparse</groupId>
+    <artifactId>sqlparse</artifactId>
+    <version>0.5.0</version>
+
+    <groupId>typing_extensions</groupId>
+    <artifactId>typing_extensions</artifactId>
+    <version>4.11.0</version>
+</project>
